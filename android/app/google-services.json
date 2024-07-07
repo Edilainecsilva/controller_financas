@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "621210772639",
+    "firebase_url": "https://controller-ea565-default-rtdb.firebaseio.com",
+    "project_id": "controller-ea565",
+    "storage_bucket": "controller-ea565.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621210772639:android:b03397f85e0a5513f2eeaa",
+        "android_client_info": {
+          "package_name": "com.example.controller_financas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr3SLtCyGX756BHxTpp3dc1K_cJUTKi3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
